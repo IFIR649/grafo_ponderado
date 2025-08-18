@@ -1,2 +1,4 @@
-﻿# lista para que vayamos por tacos?
+﻿# aplicacion(complejidad_baja).py es el mas optimo
  
+ 
+
